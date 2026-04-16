@@ -1779,7 +1779,7 @@ You've found 70 Power\n\
 Stars! The mystery of the\n\
 endless stairs is solved,\n\
 thanks to you--and is\n\
-Bowser ever upset! Now,\n\
+Bowser ever upset! Now\n\
 you don't need to\n\
 use the power of your\n\
 Stand the BLG to break\n\
